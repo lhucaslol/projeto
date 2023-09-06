@@ -33,5 +33,11 @@
       "source": "Git Bash"
     }
   },
-  "terminal.integrated.defaultProfile.windows": "Git Bash"
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+
+  "markdownlint.config": {
+    "MD033": {
+      "allowed_elements": ["h1", "p", "a", "br", "img"]
+    }
+  }
 }
